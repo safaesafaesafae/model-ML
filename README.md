@@ -1,6 +1,7 @@
 ****Prédiction de la Demande dans le Secteur Retail****
 
 **Description du Projet**
+
 Ce projet a pour objectif de développer et d'évaluer un modèle de machine learning pour la prédiction de la demande dans le secteur retail.
 Le projet se concentre sur l'évaluation de plusieurs modèles de séries temporelles (ARIMA, SARIMA, Prophet) dans un script Jupyter unique. Après les tests,
 le modèle SARIMA a été sélectionné pour sa performance supérieure selon plusieurs métriques d’évaluation.
