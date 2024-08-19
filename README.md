@@ -7,11 +7,11 @@ le modèle SARIMA a été sélectionné pour sa performance supérieure selon pl
 
 **Structure du Projet**
 
-test1.ipynb : Notebook Jupyter contenant toutes les étapes du projet : exploration des données, évaluation et visualisation des résultats.
+=>test1.ipynb : Notebook Jupyter contenant toutes les étapes du projet : exploration des données, évaluation et visualisation des résultats.
 
-test_pres1.pdf : Présentation résumant les choix méthodologiques, les résultats obtenus et les recommandations finales.
+=>test_pres1.pdf : Présentation résumant les choix méthodologiques, les résultats obtenus et les recommandations finales.
 
-file_out2.csv : fichier csv contenant les jeux de données utilisés (si applicable).
+=>file_out2.csv : fichier csv contenant les jeux de données utilisés (si applicable).
 
 
 **Modèles Testés**
